@@ -1,0 +1,15 @@
+Laravel Controllers :
+
+Controller are class based php files.
+Controllers can group related request handling logic into a single class.
+
+Types of Controller:
+
+      1) Basic Controller
+      2) Single Action Controller
+      3) Resource Controllers
+
+Command to make Controller 
+1) Basic Controller:
+         php artisan make:controller ControllerName
+
